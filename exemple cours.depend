@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1792969684 source:c:\users\hp\desktop\bouziri\exemple cours\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iostream>
+	<vector>
+	<iostream>
+	<vector>
+	<iostream>
+	<vector>
+	<list>
+	<algorithm>
+	<chrono>
+	<iterator>
+	<iostream>
+	<algorithm>
+	<vector>
+	<list>
+	<chrono>
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<list>
+	<algorithm>
+	<chrono>
+	<iterator>
+
